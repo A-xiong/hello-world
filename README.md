@@ -1,5 +1,5 @@
-# hello-world
-Just learning how to use Github.
+//# hello-world
+//Just learning how to use Github.
 #include<iostream>
 using namespace std;
 int main()
